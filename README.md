@@ -1,2 +1,5 @@
 # cheat-sheet-collection
-Some cheat sheet  on the internet.
+A collection of cheat sheets on the internet.
+# Only for learning
+# In case of infringement, delete immediately
+# Welcome to fork and pr.
